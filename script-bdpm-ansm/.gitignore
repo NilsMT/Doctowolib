@@ -1,0 +1,6 @@
+sources/*/*.txt
+sources/*/*.pdf
+__pycache__/
+.venv/
+.coverage
+.vscode
